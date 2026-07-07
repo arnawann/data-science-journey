@@ -7,7 +7,7 @@ Welcome to my Data Science learning journey.
 - ✅ Mini Project: Salary Management System
 
 ## Next
-- ⏳ NumPy
+- 🔄 NumPy
 - ⏳ Pandas
 - ⏳ Matplotlib
 
@@ -20,7 +20,7 @@ This repository documents my journey of learning Data Science from scratch, star
 ## 🚀 Roadmap
 
 - ✅ Python Fundamentals
-- ⏳ NumPy
+- 🔄 NumPy
 - ⏳ Pandas
 - ⏳ Matplotlib
 - ⏳ SQL
@@ -69,5 +69,17 @@ Become a professional Data Scientist by consistently building projects and docum
 - ✅ Git Installed
 - ✅ First Git Commit
 - ✅ Python Fundamentals Completed
-- 🚀 Next: NumPy
+- ✅ Python Fundamentals
+- 🔄 NumPy
+- ⏳ Pandas
+- ⏳ SQL
+- ⏳ Statistics
+- ⏳ Machine Learning
+
+## Daily Learning Log
+
+I share my daily learning progress on Instagram.
+
+📱 Instagram:
+https://instagram.com/bacainugrah
 
