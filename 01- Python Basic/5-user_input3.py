@@ -1,0 +1,13 @@
+name = input("What is your name? ")
+city = input("Where do you live? ")
+age = int(input("How old are you? "))
+dream_salary = int(input("What is your dream monthly salary? "))
+
+print()
+print("Hello,", name)
+print("You live in", city)
+print("Next year you will be", age + 1, "years old.")
+print("In five years, you will be", age + 5, "years old.")
+print("Dream Monthly Salary:", dream_salary)
+print("Your Monthly Salary After A 10% Increase:", dream_salary *1.1)
+print("Dream Yearly Salary:", dream_salary * 12)

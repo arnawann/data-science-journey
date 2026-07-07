@@ -1,0 +1,5 @@
+Python
+SQL
+Machine Learning
+Statistics
+Learning Python

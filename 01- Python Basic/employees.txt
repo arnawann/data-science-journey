@@ -1,0 +1,10 @@
+Name:Arnawan
+Age:24
+Country:Indonesia
+Position:Data Analyst
+Monthly Salary:20000000
+Name:Winston
+Age:72
+Country:US
+Position:Head Officer
+Monthly Salary:9999999
