@@ -20,3 +20,6 @@ print(np.median(scores))
 
 scores = np.array([70,10,90,100])
 print(np.median(scores))
+
+print("=== Standard Deviation ===")
+print(np.std(scores))
