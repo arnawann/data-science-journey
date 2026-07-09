@@ -8,7 +8,7 @@ This folder documents my journey learning Pandas for data analysis.
 - ✅ Series
 - ✅ Head & Tail
 - ✅ Column Selection
-- ⬜ Filtering
+- ✅ Filtering
 - ⬜ Sorting
 - ⬜ Reading CSV
 - ⬜ Data Cleaning
