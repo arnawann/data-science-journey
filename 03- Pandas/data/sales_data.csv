@@ -1,0 +1,11 @@
+ProductID,Product,Category,Price,Quantity
+101,Laptop,Electronics,15000000,5
+102,Mouse,Accessories,250000,20
+103,Keyboard,Accessories,500000,15
+104,Monitor,Electronics,3000000,8
+105,Printer,Electronics,2500000,6
+106,Headset,Accessories,750000,10
+107,Webcam,Accessories,900000,7
+108,Tablet,Electronics,5500000,4
+109,Speaker,Accessories,1200000,9
+110,SSD,Electronics,1800000,12
