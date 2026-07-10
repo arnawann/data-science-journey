@@ -5,10 +5,10 @@ Welcome to my Data Science learning journey.
 ## Completed
 - ✅ Python Fundamentals
 - ✅ Mini Project: Salary Management System
+- ✅ NumPy
 
 ## Next
-- 🔄 NumPy
-- ⏳ Pandas
+- 🔄 Pandas
 - ⏳ Matplotlib
 
 Hi! I'm Arnawan.
@@ -20,8 +20,8 @@ This repository documents my journey of learning Data Science from scratch, star
 ## 🚀 Roadmap
 
 - ✅ Python Fundamentals
-- 🔄 NumPy
-- ⏳ Pandas
+- ✅ NumPy
+- 🔄 Pandas
 - ⏳ Matplotlib
 - ⏳ SQL
 - ⏳ Statistics
@@ -56,6 +56,29 @@ Topics covered:
 - Calculate Statistics
 - Save Employee Data to File
 
+### NumPy Fundamentals
+Topics covered:
+- Creating NumPy Arrays
+- Array Attributes (shape, ndim, size)
+- Reshape Arrays
+- Random Number Generation
+- Statistical Functions
+- Salary Analysis Mini Challenge
+- Salary Analysis Mini Project
+
+### Pandas Fundamentals
+Topics covered:
+- DataFrame Creation
+- Head() & Tail()
+- Column Selection
+- Basic Statistics
+- Data Filtering
+- Multiple Filtering (AND / OR)
+- loc[] Indexing
+- iloc[] Indexing
+- Sorting Data
+- Multi-column Sorting
+
 ---
 
 ## 🎯 Goal
@@ -70,8 +93,8 @@ Become a professional Data Scientist by consistently building projects and docum
 - ✅ First Git Commit
 - ✅ Python Fundamentals Completed
 - ✅ Python Fundamentals
-- 🔄 NumPy
-- ⏳ Pandas
+- ✅ NumPy
+- 🔄 Pandas
 - ⏳ SQL
 - ⏳ Statistics
 - ⏳ Machine Learning
