@@ -21,8 +21,8 @@ This repository documents my journey of learning Data Science from scratch, star
 
 - ✅ Python Fundamentals
 - ✅ NumPy
-- 🔄 Pandas
-- ⏳ Matplotlib
+- ✅ Pandas
+- 🔄 Matplotlib
 - ⏳ SQL
 - ⏳ Statistics
 - ⏳ Machine Learning
@@ -78,6 +78,10 @@ Topics covered:
 - iloc[] Indexing
 - Sorting Data
 - Multi-column Sorting
+- Handling Missing Values
+- GroupBy & Aggregation
+- Merge / Join
+- Mini Project: Sales Analysis Dashboard
 
 ---
 
@@ -94,7 +98,7 @@ Become a professional Data Scientist by consistently building projects and docum
 - ✅ Python Fundamentals Completed
 - ✅ Python Fundamentals
 - ✅ NumPy
-- 🔄 Pandas
+- ✅ Pandas
 - ⏳ SQL
 - ⏳ Statistics
 - ⏳ Machine Learning

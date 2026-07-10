@@ -9,10 +9,10 @@ This folder documents my journey learning Pandas for data analysis.
 - ✅ Head & Tail
 - ✅ Column Selection
 - ✅ Filtering
-- ⬜ Sorting
-- ⬜ Reading CSV
-- ⬜ Data Cleaning
+- ✅ Sorting
+- ✅ Reading CSV
+- ✅ Data Cleaning
 
 ## Status
 
-🟡 In Progress
+✅ Completed
