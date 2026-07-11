@@ -6,10 +6,10 @@ Welcome to my Data Science learning journey.
 - ✅ Python Fundamentals
 - ✅ Mini Project: Salary Management System
 - ✅ NumPy
+- ✅ Pandas
 
 ## Next
-- 🔄 Pandas
-- ⏳ Matplotlib
+- 🔄 Matplotlib
 
 Hi! I'm Arnawan.
 
