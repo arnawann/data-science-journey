@@ -7,9 +7,11 @@ Welcome to my Data Science learning journey.
 - ✅ Mini Project: Salary Management System
 - ✅ NumPy
 - ✅ Pandas
+- ✅ Matplotlib
+
 
 ## Next
-- 🔄 Matplotlib
+- 🔄 Seaborn
 
 Hi! I'm Arnawan.
 
@@ -22,7 +24,8 @@ This repository documents my journey of learning Data Science from scratch, star
 - ✅ Python Fundamentals
 - ✅ NumPy
 - ✅ Pandas
-- 🔄 Matplotlib
+- ✅ Matplotlib
+- 🔄 Seaborn
 - ⏳ SQL
 - ⏳ Statistics
 - ⏳ Machine Learning
@@ -83,6 +86,19 @@ Topics covered:
 - Merge / Join
 - Mini Project: Sales Analysis Dashboard
 
+### Matplotlib Fundamentals
+Topics covered:
+- First Chart
+- Bar Chart
+- Line Chart
+- Scatter Plot
+- Histogram
+- Pie Chart
+- Chart Customization
+- Subplots
+- Save Figure (savefig)
+- Mini Project: Sales Dashboard
+
 ---
 
 ## 🎯 Goal
@@ -99,6 +115,8 @@ Become a professional Data Scientist by consistently building projects and docum
 - ✅ Python Fundamentals
 - ✅ NumPy
 - ✅ Pandas
+- ✅ Matplotlib
+- ⏳ Seaborn
 - ⏳ SQL
 - ⏳ Statistics
 - ⏳ Machine Learning
