@@ -6,7 +6,6 @@ df = pd.read_csv("03- Pandas/data/sales_data.csv")
 
 df["Revenue"] = df["Price"] * df["Quantity"]
 
-
 plt.figure(figsize=(12,5))
 plt.suptitle("Sales Dashboard",fontsize=18)
 
@@ -30,7 +29,7 @@ sns.scatterplot(
     data=df,
     x="Price",
     y="Revenue",
-    color="Green",
+    color="green",
     marker="o"
 )
 
