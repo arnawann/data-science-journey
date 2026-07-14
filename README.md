@@ -99,6 +99,22 @@ Topics covered:
 - Save Figure (savefig)
 - Mini Project: Sales Dashboard
 
+### Seaborn Fundamentals
+Topics covered:
+- Barplot
+- Lineplot
+- Scatter Plot
+- Histogram
+- Boxplot
+- Violin Plot
+- Heatmap
+- Pairplot
+- Countplot
+- Themes
+- Color Palettes
+- Mini Dashboard Project 1
+- Mini Dashboard Project 2
+
 ---
 
 ## 🎯 Goal
