@@ -10,10 +10,16 @@ print("\nDataset Shape:")
 print(df.shape)
 
 print("\nColumn Names:")
-print(df.columns)
+print(df.columns.tolist())
 
 print("\nData Types:")
 print(df.dtypes)
 
 print("\nMissing Values:")
 print(df.isnull().sum())
+
+print("\nDuplicate Rows:")
+print(df.duplicated().sum())
+
+print("\nUnique Categories:")
+print(df["Category"].unique())
