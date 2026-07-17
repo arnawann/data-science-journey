@@ -2,34 +2,9 @@
 
 Welcome to my Data Science learning journey.
 
-## Completed
-- ✅ Python Fundamentals
-- ✅ Mini Project: Salary Management System
-- ✅ NumPy
-- ✅ Pandas
-- ✅ Matplotlib
-
-
-## Next
-- 🔄 Seaborn
-
 Hi! I'm Arnawan.
 
 This repository documents my journey of learning Data Science from scratch, starting with Python fundamentals and continuing toward Machine Learning.
-
----
-
-## 🚀 Roadmap
-
-- ✅ Python Fundamentals
-- ✅ NumPy
-- ✅ Pandas
-- ✅ Matplotlib
-- 🔄 Seaborn
-- ⏳ SQL
-- ⏳ Statistics
-- ⏳ Machine Learning
-- ⏳ Deep Learning
 
 ---
 
@@ -59,6 +34,14 @@ Topics covered:
 - Calculate Statistics
 - Save Employee Data to File
 
+Skills Gained:
+- Python Programming Fundamentals
+- Problem Solving
+- Algorithmic Thinking
+- File Handling
+- Modular Programming
+- Debugging
+
 ### NumPy Fundamentals
 Topics covered:
 - Creating NumPy Arrays
@@ -68,6 +51,13 @@ Topics covered:
 - Statistical Functions
 - Salary Analysis Mini Challenge
 - Salary Analysis Mini Project
+
+Skills Gained:
+- Numerical Computing
+- Array Manipulation
+- Vectorized Operations
+- Statistical Analysis
+- Data Preparation
 
 ### Pandas Fundamentals
 Topics covered:
@@ -86,6 +76,13 @@ Topics covered:
 - Merge / Join
 - Mini Project: Sales Analysis Dashboard
 
+Skills Gained:
+- Data Manipulation
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis (EDA)
+- Tabular Data Processing
+
 ### Matplotlib Fundamentals
 Topics covered:
 - First Chart
@@ -98,6 +95,13 @@ Topics covered:
 - Subplots
 - Save Figure (savefig)
 - Mini Project: Sales Dashboard
+
+Skills Gained:
+- Data Visualization
+- Chart Customization
+- Dashboard Layout
+- Statistical Plotting
+- Data Storytelling
 
 ### Seaborn Fundamentals
 Topics covered:
@@ -115,6 +119,52 @@ Topics covered:
 - Mini Dashboard Project 1
 - Mini Dashboard Project 2
 
+Skills gained:
+- Statistical Visualization
+- Correlation Analysis
+- Distribution Analysis
+- Categorical Analysis
+- Dashboard Layout with Subplots
+
+### Data Cleaning Fundamentals
+
+Topics covered:
+- Inspect Dataset
+- Handle Missing Values
+- Remove Missing Values
+- Replace Missing Values
+- Detect Duplicate Rows
+- Remove Duplicate Rows
+- Replace Values
+- Export Clean Dataset
+
+# PORTOFOLIO PROJECTS
+
+# Project 01 — Sales Data Cleaning
+
+## Objective
+
+Clean a dirty sales dataset before performing Exploratory Data Analysis.
+
+## Dataset Issues
+
+- Missing Values
+- Duplicate Rows
+- Inconsistent Categories
+
+## Cleaning Steps
+
+1. Data Inspection
+2. Handle Missing Values
+3. Remove Duplicates
+4. Standardize Categories
+5. Export Clean Dataset
+
+## Tools
+
+- Python
+- Pandas
+
 ---
 
 ## 🎯 Goal
@@ -123,19 +173,17 @@ Become a professional Data Scientist by consistently building projects and docum
 
 ---
 
-## 📅 Progress
+## 🚀 Roadmap
 
-- ✅ Git Installed
-- ✅ First Git Commit
-- ✅ Python Fundamentals Completed
 - ✅ Python Fundamentals
 - ✅ NumPy
 - ✅ Pandas
 - ✅ Matplotlib
-- ⏳ Seaborn
+- ✅ Seaborn
 - ⏳ SQL
 - ⏳ Statistics
 - ⏳ Machine Learning
+- ⏳ Deep Learning
 
 ## Daily Learning Log
 
