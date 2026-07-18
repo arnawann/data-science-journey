@@ -140,30 +140,31 @@ Topics covered:
 
 # PORTOFOLIO PROJECTS
 
-# Project 01 — Sales Data Cleaning
+### Project 01 — Sales Data Cleaning
 
-## Objective
+Topics covered:
 
-Clean a dirty sales dataset before performing Exploratory Data Analysis.
+- Data Inspection
+- Missing Value Handling
+- Duplicate Removal
+- Data Standardization
+- CSV Export
+- End-to-End Data Cleaning Pipeline
 
-## Dataset Issues
+Skills gained:
 
-- Missing Values
-- Duplicate Rows
-- Inconsistent Categories
-
-## Cleaning Steps
-
-1. Data Inspection
-2. Handle Missing Values
-3. Remove Duplicates
-4. Standardize Categories
-5. Export Clean Dataset
-
-## Tools
-
-- Python
+- Data Cleaning
+- Data Quality Assessment
 - Pandas
+- ETL Basics
+- Reporting
+
+## Upcoming Projects
+
+- Project 02 — Exploratory Data Analysis
+- Project 03 — SQL Business Analysis
+- Project 04 — Power BI Dashboard
+- Project 05 — Machine Learning
 
 ---
 
