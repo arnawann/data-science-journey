@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd #Highest Price per Category
 df = pd.read_csv(
     "Project-02-Exploratory-Data-Analysis/data/cleaned_sales_data.csv"
 )
