@@ -1,3 +1,7 @@
+# ======================================
+# PROJECT 01 - SALES DATA CLEANING
+# ======================================
+
 import pandas as pd
 
 df = pd.read_csv("Project-01-Sales-Data-Cleaning/data/sales_data_dirty.csv")

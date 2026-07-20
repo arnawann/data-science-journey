@@ -159,9 +159,38 @@ Skills gained:
 - ETL Basics
 - Reporting
 
+### Project 02 — Exploratory Data Analysis
+
+Topics covered:
+
+- Dataset Inspection
+- Summary Statistics
+- Category Analysis
+- Product Analysis
+- Sales Insights
+- Data Visualization
+- Dashboard Creation
+
+### Mini Project
+
+**Sales Dashboard**
+
+- Revenue by Category
+- Quantity by Category
+- Top 5 Products by Revenue
+
+Skills Gained:
+
+- Exploratory Data Analysis (EDA)
+- Business Analytics
+- Revenue Analysis
+- GroupBy Aggregation
+- Dashboard Visualization
+- Data Storytelling
+- Matplotlib
+
 ## Upcoming Projects
 
-- Project 02 — Exploratory Data Analysis
 - Project 03 — SQL Business Analysis
 - Project 04 — Power BI Dashboard
 - Project 05 — Machine Learning
