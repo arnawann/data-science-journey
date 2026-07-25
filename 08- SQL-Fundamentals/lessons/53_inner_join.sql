@@ -14,7 +14,7 @@ FROM products
 INNER JOIN orders
 ON products.ProductID = orders.ProductID;
 
-#Pakai Alias (Best Practice)
+#Using Alias (Best Practice)
 #In the workplace, almost everyone uses a alias, shorter and neater.
 
 USE data_science_journey;
