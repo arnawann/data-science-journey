@@ -1,6 +1,6 @@
 USE data_science_journey;
 
-#54-LEFT JOIN
+#54-LEFT JOIN (RIGHT JOIN IS VICE VERSA)
 
 SELECT
     p.ProductName,
