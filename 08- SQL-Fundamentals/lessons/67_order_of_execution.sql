@@ -1,6 +1,6 @@
 USE data_science_journey;
 
-#64-orderofexecution
+#67-orderofexecution
 
 SELECT 
     Product,
@@ -10,7 +10,7 @@ WHERE Price > 100
 ORDER BY Price DESC
 LIMIT 2;
 
-#65-Why is this an error?
+#68-Why is this an error?
 SELECT
     Product,
     Price * Quantity AS Revenue
