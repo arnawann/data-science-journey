@@ -1,0 +1,3 @@
+CREATE DATABASE data_analytics_portofolio;
+
+USE data_analytics_portofolio;
